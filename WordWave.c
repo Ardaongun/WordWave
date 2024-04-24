@@ -89,7 +89,7 @@ void datacek(node** root){
     FILE* op;
     char satir[130];
 
-    op = fopen("kelime_data.txt","r");
+    op = fopen("data.txt","r");
 
     if(op == NULL){
         printf("Kelimelere erisilemedi\n");
@@ -106,7 +106,7 @@ void datayaz(node** root){
     node* iter;
     iter = *root;
     FILE* yp;
-    yp = fopen("kelime_data.txt","w");
+    yp = fopen("data.txt","w");
 
     while(iter != NULL){
         fprintf(yp,"%s-%s+%d",iter->kelime,iter->ceviri,iter->puan);
