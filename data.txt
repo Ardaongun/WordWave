@@ -1,0 +1,28 @@
+accident-tesaduf-kaza+4
+accomplish-basarmak+0
+acknowledge-bilgilendirmek+0
+again-tekrar etmek+3
+app-uygulama+1
+attend-katilmak+1
+attention-dikkat-ilgi+2
+big-buyuk+0
+client-musteri+3
+comb-taramak+1
+consume-tuketmek+3
+count-saymak+3
+describe-tanimlamak+2
+desperate-caresiz+2
+drug store-eczane+2
+elementary school-ilkokul+2
+hesitate-tereddut etmek+3
+hilarious-gulunc+0
+hostile-dusmanca+3
+inappropriate-uygunsuz+0
+initialize-baslatmak+1
+placemant-atama+1
+regret-pismanlik+0
+sums it up-ozetliyor+4
+think-dusunmek+3
+vacation-tatil-izin+2
+word-kelime+3
+zero-sıfır+1
