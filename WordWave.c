@@ -116,7 +116,7 @@ void datayaz(node** root){
         iter = iter->next;
     }
 }
-void kelime_sil(node** root,char kelime[30]){ // eger ilk kelime silinirse liste kaybedilir sorunu coz
+void kelime_sil(node** root,char kelime[30]){ 
     node* iter;
     node* temp;
     iter = *root;
